@@ -1,4 +1,4 @@
-# Challange 13 - Classification; Spam Detector
+# Challenge 13 - Classification; Spam Detector
 --------
 ## Overview and agenda for spam detection
 1. Import dependencies
